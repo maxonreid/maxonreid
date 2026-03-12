@@ -29,8 +29,8 @@
 ---
 
 Full Stack Engineer · 8+ years across **Mexico → Thailand → China → Laos**
-Building scalable web architectures optimized for low-bandwidth Southeast Asian networks.
-Currently @ **Thavisub Group**, Vientiane · Mobile-First · Offline-First · AWS Serverless
+Building scalable web architectures.
+Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Automation
 
 ---
 
