@@ -1,0 +1,40 @@
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  PROCESS: generate_neural_pathways.sh                       ║
+# ║  SCHEDULE: 0000h daily // cron: "0 0 * * *"                 ║
+# ║  OUTPUT: green phosphor contribution snake SVG              ║
+# ║  BRANCH: output                                             ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+name: 🐍 Generate Matrix Snake
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate Green Phosphor Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: "[INIT] Generate contribution snake SVG"
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "[PUSH] Deploy snake SVG to output branch"
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          commit_message: "[AUTO] update contribution snake // $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
