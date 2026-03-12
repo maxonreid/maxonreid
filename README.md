@@ -45,8 +45,7 @@ Currently @ **Thavisub Group**, Vientiane · Mobile-First · Offline-First · AW
 
 ## `// latest_transmissions`
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)<!-- BLOG-POST-LIST:END -->
 
 ---
 
