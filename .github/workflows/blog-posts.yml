@@ -1,0 +1,25 @@
+name: 📡 Sync Latest Articles
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Fetch RSS and update README
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync blog posts from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://maxontorres.com/rss.xml"
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: BLOG-POST-LIST
+          template: "- [$title]($url)"
+          commit_message: "[AUTO] sync latest articles from maxontorres.com"

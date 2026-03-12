@@ -43,6 +43,13 @@ Currently @ **Thavisub Group**, Vientiane · Mobile-First · Offline-First · AW
 
 ---
 
+## `// latest_transmissions`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## `// tech_arsenal`
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF00)
@@ -84,8 +91,6 @@ Currently @ **Thavisub Group**, Vientiane · Mobile-First · Offline-First · AW
 ---
 
 <div align="center">
-
-![Hit Counter](https://profile-counter.glitch.me/maxonreid/count.svg)
 
 `Vientiane, Laos · GMT+7 · MaxonTorres.com`
 
