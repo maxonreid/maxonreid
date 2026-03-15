@@ -45,7 +45,7 @@ Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Au
 
 ## `// latest_transmissions`
 
-<!-- BLOG-POST-LIST:START -->- [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Teaching Web Development in China @ Yango University](https://maxontorres.com/en/articles/teaching-web-development-china-yango-university)- [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)<!-- BLOG-POST-LIST:END -->
 
 ---
 
