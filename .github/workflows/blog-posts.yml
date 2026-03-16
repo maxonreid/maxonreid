@@ -22,5 +22,6 @@ jobs:
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
           template: |
-            - [$title]($url)
+            - [$title]($url)$newline
+          tag_post_pre_newline: true
           commit_message: "[AUTO] sync latest articles from maxontorres.com"
