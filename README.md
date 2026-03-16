@@ -38,14 +38,15 @@ Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Au
 
 | # | Project | Description | Stack |
 |:--|:--------|:------------|:------|
-| `01` | **BuildOverseer** | Enterprise construction oversight — multi-site tracking & resource allocation | Next.js · Node.js · PostgreSQL |
-| `02` | **OrderBridge** | Order & logistics management — offline-first PWA, inventory sync pipeline | Node.js · GraphQL · PostgreSQL |
+| `02` | **OrderBridge** | Delivery Apps to PoS — Middleware API | React.js · Node.js · GraphQL · PostgreSQL |
 
 ---
 
 ## `// latest_transmissions`
 
-<!-- BLOG-POST-LIST:START -->- [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
