@@ -22,11 +22,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/maxontorres)
 [![Website](https://img.shields.io/badge/MaxonTorres.com-000000?style=flat-square&logo=google-chrome&logoColor=00FF00)](https://MaxonTorres.com)
 [![Email](https://img.shields.io/badge/hello@MaxonTorres.com-000000?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:hello@MaxonTorres.com)
+[![Committers.top Laos Rank](https://user-badge.committers.top/laos/maxontorres.svg)](https://committers.top/laos.html)
 ![Views](https://komarev.com/ghpvc/?username=maxontorres&style=flat-square&color=00FF00&label=VISITORS)
 
 </div>
 
----
 
 Full Stack Engineer · 8+ years across **Mexico → Thailand → China → Laos**
 Building scalable web architectures.
