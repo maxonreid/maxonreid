@@ -15,14 +15,14 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=%5BSYSTEM_INITIALIZED%5D;%5BROLE%3A+FULL_STACK_ENGINEER%5D;%5BLOCATION%3A+VIENTIANE_NODE%5D;%5BSTATUS%3A+ONLINE%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=%5BAVAILABLE_FOR_HIRE%5D;%5BROLE%3A+FULL_STACK_DEVELOPER%5D;%5BLOCATION%3A+VIENTIANE%5D;%5BSTATUS%3A+AVAILABLE%5D)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/maxontorres)
 [![Website](https://img.shields.io/badge/MaxonTorres.com-000000?style=flat-square&logo=google-chrome&logoColor=00FF00)](https://MaxonTorres.com)
 [![Email](https://img.shields.io/badge/hello@MaxonTorres.com-000000?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:hello@MaxonTorres.com)
-![Views](https://komarev.com/ghpvc/?username=maxonreid&style=flat-square&color=00FF00&label=VISITORS)
+![Views](https://komarev.com/ghpvc/?username=maxontorres&style=flat-square&color=00FF00&label=VISITORS)
 
 </div>
 
@@ -75,9 +75,9 @@ Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Au
 
 | &nbsp; | &nbsp; |
 |:---:|:---:|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxonreid&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00BB00&text_color=00BB00&ring_color=00FF00)](https://github.com/maxonreid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxonreid&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00BB00)](https://github.com/maxonreid) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxontorres&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00BB00&text_color=00BB00&ring_color=00FF00)](https://github.com/maxontorres) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxontorres&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00BB00)](https://github.com/maxontorres) |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maxonreid&theme=matrix&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&stroke=003300&currStreakNum=00FF00&sideLabels=00BB00&sideNums=00BB00&dates=006600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maxontorres&theme=matrix&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&stroke=003300&currStreakNum=00FF00&sideLabels=00BB00&sideNums=00BB00&dates=006600)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,7 +87,7 @@ Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Au
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/maxonreid/maxonreid/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/maxontorres/maxontorres/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
